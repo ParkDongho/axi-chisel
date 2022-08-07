@@ -199,7 +199,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/Home/jre",
+                "home": "/opt/homebrew/Cellar/openjdk/18.0.2/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/parkdongho/Documents/dev/axi-chisel/project"
                 ]

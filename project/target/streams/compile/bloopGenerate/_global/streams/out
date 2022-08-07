@@ -1,4 +1,4 @@
-[debug] [axi-chisel-build] Classpath dependencies List()
-[debug] [axi-chisel-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'axi-chisel-build' to '/Users/parkdongho/Documents/dev/axi-chisel/project/.bloop/axi-chisel-build.json'
-[success] Generated .bloop/axi-chisel-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[axi-chisel-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[axi-chisel-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'axi-chisel-build' to '/Users/parkdongho/Documents/dev/axi-chisel/project/.bloop/axi-chisel-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/axi-chisel-build.json[0m

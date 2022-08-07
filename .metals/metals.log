@@ -830,3 +830,1393 @@ Aug 07, 2022 12:18:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 2022.08.07 12:28:47 INFO  time: compiled axi-chisel in 3.2s[0m
 2022.08.07 14:11:36 INFO  Shut down connection with build server.[0m
 2022.08.07 14:11:36 INFO  Shut down connection with build server.[0m
+2022.08.07 14:16:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/lsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.08.07 14:16:43 INFO  logging to file /Users/parkdongho/Documents/dev/axi-chisel/.metals/metals.log[0m
+2022.08.07 14:16:43 INFO  Started: Metals version 0.11.2 in workspace '/Users/parkdongho/Documents/dev/axi-chisel' for client coc.nvim 0.0.81.[0m
+2022.08.07 14:16:43 INFO  Parse release: 1.8.0_333[0m
+2022.08.07 14:16:45 INFO  time: initialize in 1.67s[0m
+2022.08.07 14:16:46 INFO  Attempting to connect to the build server...[0m
+2022.08.07 14:16:46 INFO  skipping build import with status 'Installed'[0m
+2022.08.07 14:16:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 14:16:53 INFO  no build target found for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.08.07 14:16:53 INFO  Attempting to connect to the build server...[0m
+2022.08.07 14:16:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/project/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 14:16:54 INFO  time: Connected to build server in 7.81s[0m
+2022.08.07 14:16:54 INFO  Connected to Build server: Bloop v1.4.13[0m
+2022.08.07 14:16:53 INFO  time: code lens generation in 4.89s[0m
+2022.08.07 14:16:53 INFO  time: Imported build in 0.32s[0m
+2022.08.07 14:16:57 INFO  time: indexed workspace in 2.65s[0m
+2022.08.07 14:18:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:18:36 INFO  time: compiled axi-chisel in 7.79s[0m
+2022.08.07 14:35:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:35:42 INFO  time: compiled axi-chisel in 3.79s[0m
+2022.08.07 14:35:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:35:59 INFO  time: compiled axi-chisel in 2.56s[0m
+2022.08.07 14:36:10 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:36:13 INFO  time: compiled axi-chisel in 3.1s[0m
+Aug 07, 2022 2:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 66
+Aug 07, 2022 2:36:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 79
+Aug 07, 2022 2:36:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 78
+2022.08.07 14:37:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:37:12 INFO  time: compiled axi-chisel in 2.54s[0m
+Aug 07, 2022 2:37:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 171
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 173
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 175
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 177
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 178
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 180
+Aug 07, 2022 2:37:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 183
+2022.08.07 14:38:25 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:38:25 INFO  time: compiled axi-chisel in 0.61s[0m
+2022.08.07 14:38:41 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:38:43 INFO  time: compiled axi-chisel in 2.33s[0m
+2022.08.07 14:39:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:39:02 INFO  time: compiled axi-chisel in 2.08s[0m
+2022.08.07 14:40:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:40:57 INFO  time: compiled axi-chisel in 1.59s[0m
+2022.08.07 14:40:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:41:02 INFO  time: compiled axi-chisel in 3.53s[0m
+2022.08.07 14:41:23 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:41:25 INFO  time: compiled axi-chisel in 1.9s[0m
+2022.08.07 14:41:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:41:37 INFO  time: compiled axi-chisel in 1.87s[0m
+2022.08.07 14:43:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:43:11 INFO  time: compiled axi-chisel in 1.6s[0m
+2022.08.07 14:43:51 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:43:51 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 14:44:07 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:44:08 INFO  time: compiled axi-chisel in 1.41s[0m
+2022.08.07 14:44:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:44:38 INFO  time: compiled axi-chisel in 0.39s[0m
+2022.08.07 14:44:54 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:44:54 INFO  time: compiled axi-chisel in 0.3s[0m
+Aug 07, 2022 2:45:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 670
+2022.08.07 14:45:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:45:31 INFO  time: compiled axi-chisel in 0.28s[0m
+Aug 07, 2022 2:45:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:127)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:245)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at com.google.gson.Gson.toJson(Gson.java:714)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+2022.08.07 14:45:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:45:53 INFO  time: compiled axi-chisel in 1.43s[0m
+2022.08.07 14:45:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:46:01 INFO  time: compiled axi-chisel in 1.87s[0m
+2022.08.07 14:46:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:46:37 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 14:46:40 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:46:42 INFO  time: compiled axi-chisel in 1.97s[0m
+2022.08.07 14:47:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:47:13 INFO  time: compiled axi-chisel in 1.92s[0m
+2022.08.07 14:47:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:47:36 INFO  time: compiled axi-chisel in 1.19s[0m
+2022.08.07 14:48:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:48:19 INFO  time: compiled axi-chisel in 1.71s[0m
+2022.08.07 14:48:20 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:48:22 INFO  time: compiled axi-chisel in 1.32s[0m
+2022.08.07 14:53:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:53:52 INFO  time: compiled axi-chisel in 0.43s[0m
+2022.08.07 14:54:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:54:44 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 14:55:20 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:55:20 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 14:57:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:57:34 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 14:58:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:58:21 INFO  time: compiled axi-chisel in 0.46s[0m
+2022.08.07 14:58:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:58:27 INFO  time: compiled axi-chisel in 0.29s[0m
+2022.08.07 14:59:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 14:59:49 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 15:04:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:04:24 INFO  time: compiled axi-chisel in 0.42s[0m
+2022.08.07 15:04:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:04:38 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 15:06:01 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:06:01 INFO  time: compiled axi-chisel in 0.29s[0m
+2022.08.07 15:06:28 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:06:28 INFO  time: compiled axi-chisel in 0.27s[0m
+2022.08.07 15:06:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:06:42 INFO  time: compiled axi-chisel in 0.47s[0m
+2022.08.07 15:07:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:07:12 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 15:07:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:07:17 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 15:07:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:07:49 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 15:08:25 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:08:25 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:08:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:08:33 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:08:56 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:64:24: stale bloop error: not found: type AxiW
+  val fsdfsdfdsf = new AxiW
+                       ^^^^[0m
+2022.08.07 15:09:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:04 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:09:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:08 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:09:15 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:15 INFO  time: compiled axi-chisel in 0.49s[0m
+2022.08.07 15:09:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:19 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:09:26 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:26 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:09:30 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:09:30 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:10:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:10:37 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:10:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:10:39 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:11:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:11:26 INFO  time: compiled axi-chisel in 2.64s[0m
+Aug 07, 2022 3:12:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class ScalaSignature
+java.util.concurrent.CompletionException: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class ScalaSignature
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class ScalaSignature
+
+2022.08.07 15:12:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:12:20 INFO  time: compiled axi-chisel in 1.25s[0m
+2022.08.07 15:14:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:14:32 INFO  time: compiled axi-chisel in 1.19s[0m
+2022.08.07 15:15:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:15:02 INFO  time: compiled axi-chisel in 1.39s[0m
+2022.08.07 15:15:25 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:15:25 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:15:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:15:39 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:16:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:16:00 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:16:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:16:11 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:16:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:16:16 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:16:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:16:24 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:16:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:16:34 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:17:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:17:08 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:17:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:17:21 INFO  time: compiled axi-chisel in 0.14s[0m
+Aug 07, 2022 3:17:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1857
+2022.08.07 15:17:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:17:39 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:17:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:17:49 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:18:15 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:18:15 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:18:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:18:22 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:18:32 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:18:32 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:19:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:19:11 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:19:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:19:22 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:19:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:19:27 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:76:43: stale bloop error: ':' expected but ')' found.
+class AxiWriteResponseChannel(userReqWidth) extends Bundle{
+                                          ^[0m
+2022.08.07 15:19:51 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:83:17: stale bloop error: identifier expected but eof found.
+class AxiAxBURST
+                ^[0m
+2022.08.07 15:19:53 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:19:53 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:20:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:20:09 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:20:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:20:22 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:20:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:20:31 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:24:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:24:22 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:24:48 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:24:48 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 15:24:53 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:24:53 INFO  time: compiled axi-chisel in 0.18s[0m
+Exception in thread "pool-4-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Aug 07, 2022 3:25:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2174
+2022.08.07 15:25:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:25:19 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:25:45 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:25:45 INFO  time: compiled axi-chisel in 0.29s[0m
+2022.08.07 15:25:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:25:59 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 15:26:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:26:12 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 15:26:23 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:26:24 INFO  time: compiled axi-chisel in 1.49s[0m
+2022.08.07 15:26:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:26:24 INFO  time: compiled axi-chisel in 0.41s[0m
+2022.08.07 15:26:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:26:49 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:26:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:26:55 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 15:27:20 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:27:20 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:28:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:28:12 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:28:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:28:21 INFO  time: compiled axi-chisel in 1.36s[0m
+2022.08.07 15:28:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:28:21 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:28:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:28:36 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 15:28:50 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:28:50 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 15:29:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:29:09 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 15:29:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:29:21 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 15:29:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:29:43 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:29:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:29:49 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:30:07 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:35: stale bloop error: not found: type AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                  ^^^^^^^^^^^^^^^^^^[0m
+2022.08.07 15:30:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:30:14 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:30:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:30:18 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:30:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:30:42 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:30:47 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:30:47 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:30:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:30:58 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 15:31:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:04 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:09 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:10 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:10 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:10 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:10 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:12 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:17 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:17 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:16 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:18 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:36:60: stale bloop error: no arguments allowed for nullary constructor AxiReadAddressChannel: ()axi.AxiReadAddressChannel
+   val address = new DecoupledIO(new AxiReadAddressChannel(readAddrWidth, userReqWidth))
+                                                           ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:18 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:37:54: stale bloop error: no arguments allowed for nullary constructor AxiReadDataChannel: ()axi.AxiReadDataChannel
+   val data = new DecoupledIO(new AxiReadDataChannel(readDataWidth, userReqWidth))
+                                                     ^^^^^^^^^^^^^[0m
+2022.08.07 15:31:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:18 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:18 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:31:20 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:20 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:21 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:21 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:21 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:22 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala:97:1: stale bloop error: unclosed comment
+/*
+^[0m
+2022.08.07 15:31:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:24 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:31:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:27 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:31:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:34 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:31:50 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:31:50 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:32:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:32:04 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 15:32:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:32:44 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:33:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:33:18 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 15:35:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:35:12 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:35:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:35:29 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:35:40 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:35:40 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:35:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:35:46 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:35:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:35:49 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:36:05 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:36:05 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:36:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:36:17 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:36:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:36:21 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:36:40 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:36:40 INFO  time: compiled axi-chisel in 0.36s[0m
+2022.08.07 15:36:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:36:52 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:37:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:04 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:37:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:16 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:37:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:27 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:37:40 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:40 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:37:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:56 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:37:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:37:59 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:38:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:38:18 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 15:38:51 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:38:51 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:38:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:38:58 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 15:40:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:40:37 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:40:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:40:44 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:40:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:40:49 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:41:01 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:02 INFO  time: compiled axi-chisel in 1.52s[0m
+2022.08.07 15:41:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:02 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:41:06 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:07 INFO  time: compiled axi-chisel in 1.47s[0m
+2022.08.07 15:41:07 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:07 INFO  time: compiled axi-chisel in 0.1s[0m
+2022.08.07 15:41:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:19 INFO  time: compiled axi-chisel in 1.37s[0m
+2022.08.07 15:41:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:19 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:41:32 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:33 INFO  time: compiled axi-chisel in 1.31s[0m
+2022.08.07 15:41:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:41:33 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:41:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:00 INFO  time: compiled axi-chisel in 1.49s[0m
+2022.08.07 15:42:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:00 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:42:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:13 INFO  time: compiled axi-chisel in 2.38s[0m
+2022.08.07 15:42:13 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:13 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 15:42:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:39 INFO  time: compiled axi-chisel in 2.16s[0m
+2022.08.07 15:42:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:42:39 INFO  time: compiled axi-chisel in 0.36s[0m
+2022.08.07 15:44:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:37 INFO  time: compiled axi-chisel in 2.54s[0m
+2022.08.07 15:44:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:37 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:44:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:38 INFO  time: compiled axi-chisel in 1.59s[0m
+2022.08.07 15:44:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:38 INFO  time: compiled axi-chisel in 98ms[0m
+2022.08.07 15:44:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:57 INFO  time: compiled axi-chisel in 1.42s[0m
+2022.08.07 15:44:57 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:44:57 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:45:13 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:14 INFO  time: compiled axi-chisel in 1.42s[0m
+2022.08.07 15:45:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:14 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:45:25 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:26 INFO  time: compiled axi-chisel in 1.32s[0m
+2022.08.07 15:45:26 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:26 INFO  time: compiled axi-chisel in 0.1s[0m
+2022.08.07 15:45:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:37 INFO  time: compiled axi-chisel in 1.2s[0m
+2022.08.07 15:45:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:45:37 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:46:19 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:46:20 INFO  time: compiled axi-chisel in 1.43s[0m
+2022.08.07 15:46:20 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:46:20 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:46:30 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:46:31 INFO  time: compiled axi-chisel in 1.25s[0m
+2022.08.07 15:46:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:46:31 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:47:06 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:07 INFO  time: compiled axi-chisel in 1.26s[0m
+2022.08.07 15:47:07 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:07 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:47:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:37 INFO  time: compiled axi-chisel in 1.22s[0m
+2022.08.07 15:47:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:37 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:47:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:50 INFO  time: compiled axi-chisel in 1.43s[0m
+2022.08.07 15:47:50 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:47:50 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 15:48:03 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:04 INFO  time: compiled axi-chisel in 1.48s[0m
+2022.08.07 15:48:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:04 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:48:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:17 INFO  time: compiled axi-chisel in 1.52s[0m
+2022.08.07 15:48:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:17 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:48:47 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:48 INFO  time: compiled axi-chisel in 1.2s[0m
+2022.08.07 15:48:48 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:48:48 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 15:49:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:10 INFO  time: compiled axi-chisel in 1.17s[0m
+2022.08.07 15:49:10 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:10 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:49:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:18 INFO  time: compiled axi-chisel in 1.47s[0m
+2022.08.07 15:49:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:18 INFO  time: compiled axi-chisel in 99ms[0m
+2022.08.07 15:49:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:22 INFO  time: compiled axi-chisel in 1.36s[0m
+2022.08.07 15:49:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:22 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:49:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:31 INFO  time: compiled axi-chisel in 1.27s[0m
+2022.08.07 15:49:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:31 INFO  time: compiled axi-chisel in 74ms[0m
+2022.08.07 15:49:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:36 INFO  time: compiled axi-chisel in 2.14s[0m
+2022.08.07 15:49:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:36 INFO  time: compiled axi-chisel in 78ms[0m
+2022.08.07 15:49:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:42 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 15:49:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:49:52 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 15:50:54 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:50:54 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:51:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:51:47 INFO  time: compiled axi-chisel in 1.43s[0m
+2022.08.07 15:51:47 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:51:47 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 15:52:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:52:32 INFO  time: compiled axi-chisel in 1.25s[0m
+2022.08.07 15:52:32 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:52:32 INFO  time: compiled axi-chisel in 0.1s[0m
+2022.08.07 15:53:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:53:39 INFO  time: compiled axi-chisel in 2.64s[0m
+2022.08.07 15:53:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:53:39 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 15:53:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:53:56 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:54:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:54:17 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:54:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:54:36 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 15:54:50 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:54:50 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:54:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:54:52 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 15:55:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:55:27 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 15:55:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:55:46 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:55:53 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:55:54 INFO  time: compiled axi-chisel in 1.22s[0m
+2022.08.07 15:55:54 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:55:54 INFO  time: compiled axi-chisel in 94ms[0m
+2022.08.07 15:56:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:13 INFO  time: compiled axi-chisel in 1.14s[0m
+2022.08.07 15:56:13 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:13 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:56:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:22 INFO  time: compiled axi-chisel in 1.3s[0m
+2022.08.07 15:56:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:22 INFO  time: compiled axi-chisel in 83ms[0m
+2022.08.07 15:56:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:37 INFO  time: compiled axi-chisel in 1.41s[0m
+2022.08.07 15:56:37 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:56:37 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:57:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:13 INFO  time: compiled axi-chisel in 1.25s[0m
+2022.08.07 15:57:13 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:13 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 15:57:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:34 INFO  time: compiled axi-chisel in 1.45s[0m
+2022.08.07 15:57:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:34 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 15:57:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:38 INFO  time: compiled axi-chisel in 1.34s[0m
+2022.08.07 15:57:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:57:38 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 15:58:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:58:40 INFO  time: compiled axi-chisel in 1.18s[0m
+2022.08.07 15:58:40 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:58:40 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 15:58:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:58:45 INFO  time: compiled axi-chisel in 1.81s[0m
+2022.08.07 15:58:45 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 15:58:45 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 16:01:01 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:02 INFO  time: compiled axi-chisel in 1.62s[0m
+2022.08.07 16:01:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:02 INFO  time: compiled axi-chisel in 99ms[0m
+2022.08.07 16:01:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:44 INFO  time: compiled axi-chisel in 1.29s[0m
+2022.08.07 16:01:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:44 INFO  time: compiled axi-chisel in 86ms[0m
+2022.08.07 16:01:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:54 INFO  time: compiled axi-chisel in 1.49s[0m
+2022.08.07 16:01:54 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:01:54 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 16:02:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:02:18 INFO  time: compiled axi-chisel in 1.24s[0m
+2022.08.07 16:02:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:02:18 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 16:02:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:03:00 INFO  time: compiled axi-chisel in 1.15s[0m
+2022.08.07 16:03:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:03:00 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 16:03:20 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:03:21 INFO  time: compiled axi-chisel in 1.38s[0m
+2022.08.07 16:03:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:03:21 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 16:03:34 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:03:34 INFO  time: compiled axi-chisel in 0.37s[0m
+2022.08.07 16:14:36 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:14:36 INFO  time: compiled axi-chisel in 0.68s[0m
+2022.08.07 16:18:31 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:18:31 INFO  time: compiled axi-chisel in 0.37s[0m
+2022.08.07 16:19:16 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:19:16 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 16:20:53 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:20:53 INFO  time: compiled axi-chisel in 0.27s[0m
+2022.08.07 16:20:57 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:20:57 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 16:21:06 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:21:06 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 16:21:19 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:21:19 INFO  time: compiled axi-chisel in 0.33s[0m
+2022.08.07 16:24:38 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:24:38 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 16:28:03 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:28:03 INFO  time: compiled axi-chisel in 0.36s[0m
+2022.08.07 16:28:56 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:28:56 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 16:29:19 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:29:19 INFO  time: compiled axi-chisel in 0.33s[0m
+2022.08.07 16:29:27 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:29:27 INFO  time: compiled axi-chisel in 0.5s[0m
+2022.08.07 16:30:00 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:30:00 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 16:30:06 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:30:06 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 16:30:14 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:30:14 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 16:30:32 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:30:32 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 16:30:42 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:30:42 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 16:31:51 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:31:51 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 16:31:53 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:31:53 INFO  time: compiled axi-chisel in 0.11s[0m
+2022.08.07 16:32:03 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:32:03 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 16:32:08 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:32:08 INFO  time: compiled axi-chisel in 0.27s[0m
+2022.08.07 16:32:11 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:32:11 INFO  time: compiled axi-chisel in 0.28s[0m
+2022.08.07 16:32:40 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:32:40 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 16:32:51 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:32:51 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 16:33:10 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:33:10 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 16:33:15 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:33:15 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 16:33:31 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:33:31 INFO  time: compiled axi-chisel in 0.27s[0m
+2022.08.07 16:33:43 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:33:43 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 16:34:03 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:34:03 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 16:34:12 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:34:12 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 16:34:41 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:34:43 INFO  time: compiled axi-chisel in 2.45s[0m
+2022.08.07 16:34:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:34:55 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 16:35:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:35:11 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 16:35:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:35:22 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 16:35:36 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:35:36 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 16:35:48 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:35:48 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 16:36:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:36:49 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 16:37:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:37:21 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 16:37:41 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:37:41 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:52 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:9:25: stale bloop error: not found: type AXIStreamIO
+    val Stream    = new AXIStreamIO()
+                        ^^^^^^^^^^^[0m
+2022.08.07 16:37:53 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala:10:33: stale bloop error: not found: type AXIStreamIO
+    val control   = Flipped(new AXIStreamIO())
+                                ^^^^^^^^^^^[0m
+2022.08.07 16:37:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:37:55 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 16:38:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:38:12 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 16:38:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:38:17 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 16:41:16 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/lsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.08.07 16:41:16 INFO  logging to file /Users/parkdongho/Documents/dev/axi-chisel/.metals/metals.log[0m
+2022.08.07 16:41:16 INFO  Started: Metals version 0.11.2 in workspace '/Users/parkdongho/Documents/dev/axi-chisel' for client coc.nvim 0.0.81.[0m
+2022.08.07 16:41:16 INFO  Parse release: 1.8.0_333[0m
+2022.08.07 16:41:19 INFO  time: initialize in 2.28s[0m
+2022.08.07 16:41:20 INFO  Attempting to connect to the build server...[0m
+2022.08.07 16:41:21 INFO  skipping build import with status 'Installed'[0m
+2022.08.07 16:41:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 16:41:27 INFO  Attempting to connect to the build server...[0m
+2022.08.07 16:41:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/project/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 16:41:28 INFO  time: Connected to build server in 7.4s[0m
+2022.08.07 16:41:28 INFO  Connected to Build server: Bloop v1.4.13[0m
+2022.08.07 16:41:28 INFO  time: Imported build in 0.46s[0m
+2022.08.07 16:41:33 INFO  time: indexed workspace in 5.29s[0m
+2022.08.07 16:41:35 INFO  compiling axi-chisel (1 scala source)[0m
+Aug 07, 2022 4:41:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1
+2022.08.07 16:41:43 INFO  time: compiled axi-chisel in 7.83s[0m
+2022.08.07 16:41:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:41:44 INFO  time: compiled axi-chisel in 1s[0m
+2022.08.07 16:44:12 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:44:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:44:12 INFO  time: compiled axi-chisel in 0.53s[0m
+2022.08.07 16:44:13 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:44:14 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:44:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:44:14 INFO  time: compiled axi-chisel in 0.47s[0m
+2022.08.07 16:44:14 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:44:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:44:34 INFO  time: compiled axi-chisel in 0.35s[0m
+Aug 07, 2022 4:46:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 177
+Aug 07, 2022 4:46:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 178
+Aug 07, 2022 4:46:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 179
+Aug 07, 2022 4:46:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 181
+2022.08.07 16:47:23 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:47:24 INFO  time: compiled axi-chisel in 1.15s[0m
+2022.08.07 16:47:31 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:47:33 INFO  time: compiled axi-chisel in 1.03s[0m
+2022.08.07 16:47:41 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:47:41 INFO  time: compiled axi-chisel in 0.77s[0m
+2022.08.07 16:48:38 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:48:38 INFO  time: compiled axi-chisel in 0.66s[0m
+2022.08.07 16:48:51 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:48:51 INFO  time: compiled axi-chisel in 0.71s[0m
+2022.08.07 16:49:00 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:49:00 INFO  time: compiled axi-chisel in 0.55s[0m
+2022.08.07 16:49:07 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:49:07 INFO  time: compiled axi-chisel in 0.58s[0m
+2022.08.07 16:49:52 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:49:52 INFO  time: compiled axi-chisel in 0.44s[0m
+2022.08.07 16:50:02 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:50:02 INFO  time: compiled axi-chisel in 0.74s[0m
+2022.08.07 16:51:15 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:51:15 INFO  time: compiled axi-chisel in 0.37s[0m
+2022.08.07 16:52:01 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:52:01 INFO  time: compiled axi-chisel in 0.47s[0m
+2022.08.07 16:52:11 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:52:11 INFO  time: compiled axi-chisel in 0.36s[0m
+2022.08.07 16:52:33 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:52:33 INFO  time: compiled axi-chisel in 0.33s[0m
+2022.08.07 16:54:20 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:54:20 INFO  time: compiled axi-chisel in 0.47s[0m
+2022.08.07 16:54:25 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:54:25 INFO  time: compiled axi-chisel in 0.37s[0m
+2022.08.07 16:54:32 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:54:32 INFO  time: compiled axi-chisel in 0.32s[0m
+2022.08.07 16:55:36 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:55:36 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 16:55:43 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:55:43 INFO  time: compiled axi-chisel in 0.31s[0m
+2022.08.07 16:55:50 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:55:50 INFO  time: compiled axi-chisel in 0.45s[0m
+2022.08.07 16:57:45 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:57:45 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 16:57:54 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:57:54 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 16:58:08 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:08 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:08 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:58:08 INFO  time: compiled axi-chisel in 0.33s[0m
+2022.08.07 16:58:09 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:09 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:14 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:58:14 INFO  time: compiled axi-chisel in 0.3s[0m
+2022.08.07 16:58:14 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:14 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:17 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:19 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:19 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:21 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:23 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:24 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:25 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:26 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:27 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:26 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:29 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:29 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:33 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:33 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:35 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:36 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 16:58:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:37 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:39 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:39 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala[0m
+2022.08.07 16:58:41 INFO  time: compiled axi-chisel in 4.97s[0m
+2022.08.07 16:59:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 16:59:14 INFO  time: compiled axi-chisel in 1.55s[0m
+2022.08.07 17:00:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:00:19 INFO  time: compiled axi-chisel in 2.94s[0m
+2022.08.07 17:00:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:00:37 INFO  time: compiled axi-chisel in 2.97s[0m
+2022.08.07 17:01:56 INFO  compiling axi-chisel (3 scala sources)[0m
+2022.08.07 17:01:58 INFO  time: compiled axi-chisel in 2.52s[0m
+2022.08.07 17:03:45 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:03:45 INFO  time: compiled axi-chisel in 0.42s[0m
+2022.08.07 17:03:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:03:49 INFO  time: compiled axi-chisel in 0.74s[0m
+2022.08.07 17:04:05 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:04:05 INFO  time: compiled axi-chisel in 0.55s[0m
+Aug 07, 2022 5:04:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 765
+2022.08.07 17:04:10 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:04:10 INFO  time: compiled axi-chisel in 0.52s[0m
+2022.08.07 17:04:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:04:35 INFO  time: compiled axi-chisel in 0.43s[0m
+Aug 07, 2022 5:04:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 779
+2022.08.07 17:04:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:04:39 INFO  time: compiled axi-chisel in 0.53s[0m
+2022.08.07 17:05:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:05:28 INFO  time: compiled axi-chisel in 1.74s[0m
+2022.08.07 17:05:39 INFO  compiling axi-chisel (5 scala sources)[0m
+2022.08.07 17:05:41 INFO  time: compiled axi-chisel in 2.22s[0m
+2022.08.07 17:05:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:05:57 INFO  time: compiled axi-chisel in 1.96s[0m
+2022.08.07 17:06:03 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:03 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 17:06:06 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:07 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:07 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:08 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:08 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 17:06:09 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:09 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:10 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:10 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:15 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:15 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:17 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:20 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:21 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 17:06:23 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:25 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:30 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:30 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:32 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:32 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 17:06:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:35 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:35 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 17:06:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:43 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:43 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:48 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:51 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:06:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:54 INFO  time: compiled axi-chisel in 2.21s[0m
+2022.08.07 17:06:54 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:06:54 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 17:07:03 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:03 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:21 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:21 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:32 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:33 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:32 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:07:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:34 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:35 INFO  time: compiled axi-chisel in 1.38s[0m
+2022.08.07 17:07:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:07:35 INFO  time: compiled axi-chisel in 0.12s[0m
+2022.08.07 17:07:46 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:46 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:46 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:46 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:48 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:07:48 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:48 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:49 INFO  time: compiled axi-chisel in 1.68s[0m
+2022.08.07 17:07:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:07:49 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 17:07:52 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:54 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:07:58 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:08:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:08:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:08:04 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:08:04 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Full.scala[0m
+2022.08.07 17:08:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:08:09 INFO  time: compiled axi-chisel in 1.52s[0m
+2022.08.07 17:08:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:08:09 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 17:08:35 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:08:37 INFO  time: compiled axi-chisel in 1.74s[0m
+2022.08.07 17:09:12 ERROR searching for `axi/DMAFull2Stream.` failed
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:521)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:198)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:163)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:181)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$5(SymbolIndexBucket.scala:173)
+	at scala.collection.immutable.List.flatMap(List.scala:366)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:173)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:140)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:133)
+	at scala.collection.immutable.List.flatMap(List.scala:366)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:133)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:44)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:71)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:39)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:38)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:16)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:172)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:171)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:256)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:255)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:254)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1596)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1594)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 17:09:12 ERROR searching for `axi/DMAFull2Stream#` failed
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:521)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:198)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:163)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:181)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:140)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:133)
+	at scala.collection.immutable.List.flatMap(List.scala:366)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:133)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:44)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:71)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:39)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:38)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.$anonfun$resolve$1(CompletionItemResolver.scala:17)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:17)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:172)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:171)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:256)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:255)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:254)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1596)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1594)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 17:09:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:09:14 INFO  time: compiled axi-chisel in 0.91s[0m
+2022.08.07 17:10:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:10:04 INFO  time: compiled axi-chisel in 1.7s[0m
+2022.08.07 17:10:14 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:10:14 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 17:10:27 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:10:27 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 17:11:20 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:11:20 INFO  time: compiled axi-chisel in 0.13s[0m
+2022.08.07 17:11:26 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:11:26 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 17:11:36 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:11:36 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 17:11:51 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:11:51 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 17:12:02 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:12:02 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 17:13:09 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:13:09 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 17:13:13 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:13:13 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 17:13:31 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 17:13:33 INFO  time: compiled axi-chisel in 1.97s[0m
+2022.08.07 17:13:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:13:53 INFO  time: compiled axi-chisel in 1.43s[0m
+2022.08.07 17:14:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Lite.scala[0m
+2022.08.07 17:14:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Lite.scala[0m
+2022.08.07 17:14:02 INFO  time: compiled axi-chisel in 1.9s[0m
+2022.08.07 17:14:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:12 INFO  time: compiled axi-chisel in 1.56s[0m
+2022.08.07 17:14:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:24 INFO  time: compiled axi-chisel in 1.8s[0m
+2022.08.07 17:14:26 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:28 INFO  time: compiled axi-chisel in 1.57s[0m
+2022.08.07 17:14:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:43 INFO  time: compiled axi-chisel in 1.16s[0m
+2022.08.07 17:14:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:14:53 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Lite.scala[0m
+2022.08.07 17:14:53 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Lite.scala[0m
+2022.08.07 17:14:54 INFO  time: compiled axi-chisel in 2.06s[0m
+2022.08.07 17:15:01 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:15:03 INFO  time: compiled axi-chisel in 1.76s[0m
+2022.08.07 17:15:57 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:15:58 INFO  time: compiled axi-chisel in 1.32s[0m
+2022.08.07 17:16:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:16:02 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4Lite.scala[0m
+2022.08.07 17:16:03 INFO  time: compiled axi-chisel in 1.22s[0m
+2022.08.07 17:16:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:16:13 INFO  time: compiled axi-chisel in 1.67s[0m
+2022.08.07 17:18:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:18:22 INFO  time: compiled axi-chisel in 0.89s[0m
+2022.08.07 17:19:03 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 17:19:03 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4DmaMaster.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1628)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1626)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+Aug 07, 2022 5:19:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 1329
+2022.08.07 17:20:18 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:20:18 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 17:20:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:20:27 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 17:21:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:21:29 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 17:21:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:21:34 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 17:22:04 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:22:04 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 17:22:13 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 17:22:13 INFO  time: compiled axi-chisel in 0.2s[0m

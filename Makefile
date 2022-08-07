@@ -35,10 +35,14 @@ Add_Wave:
 Add_Diagrammer:
 	$(SOURCE) ./util/draw_diagrammer.sh -f "Add"
 
+doc:
+	sbt doc
+
 clean:
 	rm -rf generated
 	rm -rf project
 	rm -rf target
+
 
 help:
 	echo "사용방법"
