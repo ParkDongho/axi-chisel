@@ -1,0 +1,830 @@
+2022.08.07 10:50:24 INFO  Started: Metals version 0.11.2 in workspace '/Users/parkdongho/Documents/dev/axi-chisel' for client coc.nvim 0.0.81.[0m
+2022.08.07 10:58:11 INFO  Started: Metals version 0.11.2 in workspace '/Users/parkdongho/Documents/dev/axi-chisel' for client coc.nvim 0.0.81.[0m
+2022.08.07 10:58:11 INFO  Parse release: 1.8.0_333[0m
+2022.08.07 10:58:12 INFO  time: initialize in 1.44s[0m
+2022.08.07 10:58:13 WARN  Build server is not auto-connectable.[0m
+2022.08.07 10:58:14 WARN  no build target for: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/empty/Add.scala[0m
+2022.08.07 10:58:15 INFO  running '/Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.6.2 -jar /var/folders/vt/tdrl7g5930s3_k5ckpd446r40000gn/T/metals2977026586265034665/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.08.07 10:58:19 INFO  no build target found for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/empty/Add.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.08.07 10:58:20 INFO  [info] Updated file /Users/parkdongho/Documents/dev/axi-chisel/project/build.properties: set sbt.version to 1.6.2[0m
+2022.08.07 10:58:20 INFO  [info] welcome to sbt 1.6.2 (Oracle Corporation Java 1.8.0_333)[0m
+2022.08.07 10:58:27 INFO  [info] loading settings for project axi-chisel-build-build from metals.sbt ...[0m
+2022.08.07 10:58:29 INFO  [info] loading project definition from /Users/parkdongho/Documents/dev/axi-chisel/project/project[0m
+2022.08.07 10:58:33 INFO  [info] loading settings for project axi-chisel-build from metals.sbt ...[0m
+2022.08.07 10:58:33 INFO  [info] loading project definition from /Users/parkdongho/Documents/dev/axi-chisel/project[0m
+2022.08.07 10:58:37 INFO  [success] Generated .bloop/axi-chisel-build.json[0m
+2022.08.07 10:58:37 INFO  [success] Total time: 3 s, completed Aug 7, 2022 10:58:37 AM[0m
+2022.08.07 10:58:40 INFO  [info] loading settings for project axi-chisel from build.sbt ...[0m
+2022.08.07 10:58:40 INFO  [info] set current project to axi-chisel (in build file:/Users/parkdongho/Documents/dev/axi-chisel/)[0m
+2022.08.07 10:58:41 INFO  [success] Generated .bloop/axi-chisel.json[0m
+2022.08.07 10:58:41 INFO  [success] Generated .bloop/axi-chisel-test.json[0m
+2022.08.07 10:58:41 INFO  [success] Total time: 1 s, completed Aug 7, 2022 10:58:42 AM[0m
+2022.08.07 10:58:42 INFO  time: ran 'sbt bloopInstall' in 26s[0m
+2022.08.07 10:58:42 INFO  Attempting to connect to the build server...[0m
+2022.08.07 10:58:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 10:58:47 INFO  Attempting to connect to the build server...[0m
+2022.08.07 10:58:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/project/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 10:58:47 INFO  time: Connected to build server in 5.75s[0m
+2022.08.07 10:58:47 INFO  Connected to Build server: Bloop v1.4.13[0m
+2022.08.07 10:58:48 INFO  time: Imported build in 0.22s[0m
+2022.08.07 10:58:55 INFO  time: indexed workspace in 7.43s[0m
+2022.08.07 10:58:57 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 10:59:08 INFO  compiling axi-chisel-test (1 scala source)[0m
+2022.08.07 10:59:08 INFO  time: compiled axi-chisel in 11s[0m
+2022.08.07 10:59:11 INFO  time: compiled axi-chisel-test in 2.86s[0m
+2022.08.07 11:00:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/lsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.08.07 11:00:45 INFO  logging to file /Users/parkdongho/Documents/dev/axi-chisel/.metals/metals.log[0m
+2022.08.07 11:00:45 INFO  Started: Metals version 0.11.2 in workspace '/Users/parkdongho/Documents/dev/axi-chisel' for client coc.nvim 0.0.81.[0m
+2022.08.07 11:00:45 INFO  Parse release: 1.8.0_333[0m
+2022.08.07 11:00:46 INFO  time: initialize in 1.5s[0m
+2022.08.07 11:00:49 INFO  Attempting to connect to the build server...[0m
+2022.08.07 11:00:49 INFO  skipping build import with status 'Installed'[0m
+2022.08.07 11:00:55 INFO  no build target found for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/empty/Add.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.08.07 11:00:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 11:00:56 INFO  Attempting to connect to the build server...[0m
+2022.08.07 11:00:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/parkdongho/Documents/dev/axi-chisel/project/.metals/bsp.trace.json or /Users/parkdongho/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.08.07 11:00:56 INFO  time: Connected to build server in 7.29s[0m
+2022.08.07 11:00:56 INFO  Connected to Build server: Bloop v1.4.13[0m
+2022.08.07 11:00:57 INFO  time: Imported build in 0.3s[0m
+2022.08.07 11:00:58 INFO  time: code lens generation in 8.02s[0m
+2022.08.07 11:01:01 INFO  time: indexed workspace in 3.86s[0m
+Aug 07, 2022 11:01:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+경고: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/taskFinish",
+  "params": {
+    "taskId": {
+      "id": "1"
+    },
+    "eventTime": 1659837662344,
+    "message": "Compiled \u0027axi-chisel\u0027",
+    "status": 1,
+    "dataKind": "compile-report",
+    "data": {
+      "target": {
+        "uri": "file:/Users/parkdongho/Documents/dev/axi-chisel/?id\u003daxi-chisel"
+      },
+      "errors": 0,
+      "warnings": 0,
+      "isNoOp": true,
+      "isLastCycle": true,
+      "clientDir": "file:///Users/parkdongho/Documents/dev/axi-chisel/.bloop/axi-chisel/bloop-bsp-clients-classes/classes-Metals--4GiiE1YQBuhek3tYSjS4g\u003d\u003d/",
+      "analysisOut": "file:///Users/parkdongho/Documents/dev/axi-chisel/.bloop/axi-chisel/axi-chisel-analysis.bin"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NullPointerException
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3(Compilers.scala:244)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3$adapted(Compilers.scala:242)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2(Compilers.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2$adapted(Compilers.scala:241)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)
+	at scala.meta.internal.metals.Compilers.didCompile(Compilers.scala:241)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$13(MetalsLanguageServer.scala:424)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$13$adapted(MetalsLanguageServer.scala:422)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$2(ForwardingMetalsBuildClient.scala:182)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1(ForwardingMetalsBuildClient.scala:179)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1$adapted(ForwardingMetalsBuildClient.scala:178)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:178)
+	... 16 more
+
+2022.08.07 11:03:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:03:20 INFO  time: compiled axi-chisel in 3.95s[0m
+2022.08.07 11:03:21 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:03:23 INFO  time: compiled axi-chisel in 1.38s[0m
+2022.08.07 11:03:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:03:47 INFO  time: compiled axi-chisel in 1.28s[0m
+2022.08.07 11:03:48 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:03:48 INFO  time: compiled axi-chisel in 0.87s[0m
+2022.08.07 11:04:01 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:04:02 INFO  time: compiled axi-chisel in 1.48s[0m
+Aug 07, 2022 11:06:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 89
+Aug 07, 2022 11:07:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 135
+2022.08.07 11:07:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:07:14 INFO  time: compiled axi-chisel in 1.41s[0m
+2022.08.07 11:15:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:15:49 INFO  time: compiled axi-chisel in 0.41s[0m
+2022.08.07 11:16:07 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:16:10 INFO  time: compiled axi-chisel in 2.8s[0m
+Aug 07, 2022 11:16:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:127)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:245)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at com.google.gson.Gson.toJson(Gson.java:714)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+2022.08.07 11:17:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:17:04 INFO  time: compiled axi-chisel in 1.83s[0m
+2022.08.07 11:17:06 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:17:08 INFO  time: compiled axi-chisel in 2.06s[0m
+2022.08.07 11:17:52 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:17:52 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 11:18:25 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:18:27 INFO  time: compiled axi-chisel in 2.15s[0m
+2022.08.07 11:18:31 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:18:33 INFO  time: compiled axi-chisel in 1.68s[0m
+2022.08.07 11:18:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:18:44 INFO  time: compiled axi-chisel in 1.42s[0m
+Aug 07, 2022 11:19:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 559
+2022.08.07 11:19:53 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:19:54 INFO  time: compiled axi-chisel in 1.47s[0m
+2022.08.07 11:20:51 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:20:51 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 11:20:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:21:01 INFO  time: compiled axi-chisel in 2.06s[0m
+2022.08.07 11:21:23 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:21:25 INFO  time: compiled axi-chisel in 2.12s[0m
+2022.08.07 11:21:27 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:21:29 INFO  time: compiled axi-chisel in 1.6s[0m
+Aug 07, 2022 11:21:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 716
+Aug 07, 2022 11:21:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 717
+2022.08.07 11:21:45 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:21:46 INFO  time: compiled axi-chisel in 1.65s[0m
+2022.08.07 11:22:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:22:11 INFO  time: compiled axi-chisel in 0.44s[0m
+2022.08.07 11:22:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:22:36 INFO  time: compiled axi-chisel in 2.28s[0m
+2022.08.07 11:22:38 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:22:40 INFO  time: compiled axi-chisel in 2.19s[0m
+2022.08.07 11:22:47 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:22:49 INFO  time: compiled axi-chisel in 1.64s[0m
+Aug 07, 2022 11:23:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 835
+Aug 07, 2022 11:23:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 863
+2022.08.07 11:23:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:23:56 INFO  time: compiled axi-chisel in 0.29s[0m
+2022.08.07 11:24:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:24:29 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 11:24:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:24:46 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 11:24:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:24:59 INFO  time: compiled axi-chisel in 0.27s[0m
+Aug 07, 2022 11:25:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 924
+2022.08.07 11:25:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:25:11 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 11:25:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:25:22 INFO  time: compiled axi-chisel in 0.23s[0m
+Aug 07, 2022 11:26:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 976
+2022.08.07 11:26:24 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:13:12: stale bloop error: chisel3.util.ReadyValidIO.type does not take parameters
+  val io = ReadyValidIO()
+           ^^^^^^^^^^^^^^[0m
+2022.08.07 11:26:24 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:13:12: stale bloop error: chisel3.util.ReadyValidIO.type does not take parameters
+  val io = ReadyValidIO()
+           ^^^^^^^^^^^^^^[0m
+2022.08.07 11:26:24 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:13:12: stale bloop error: chisel3.util.ReadyValidIO.type does not take parameters
+  val io = ReadyValidIO()
+           ^^^^^^^^^^^^^^[0m
+2022.08.07 11:26:24 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:13:12: stale bloop error: chisel3.util.ReadyValidIO.type does not take parameters
+  val io = ReadyValidIO()
+           ^^^^^^^^^^^^^^[0m
+2022.08.07 11:26:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:26:56 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 11:27:07 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:27:07 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 11:27:47 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:27:47 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 11:29:26 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:29:26 INFO  time: compiled axi-chisel in 0.19s[0m
+2022.08.07 11:29:32 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:29:32 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 11:29:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:29:39 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 11:29:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:29:43 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 11:31:35 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:31:35 INFO  time: compiled axi-chisel in 0.25s[0m
+2022.08.07 11:32:02 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:32:02 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 11:32:06 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:32:06 INFO  time: compiled axi-chisel in 0.17s[0m
+2022.08.07 11:32:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:32:46 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 11:34:05 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:34:05 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 11:34:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:34:14 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:18:1: stale bloop error: '=' expected.
+  val awlock
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:19:1: stale bloop error: '=' expected.
+  val awcache = Wire(UInt(3.W))
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:21:1: stale bloop error: '=' expected.
+  val awqos
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:22:1: stale bloop error: '=' expected.
+  val awregion
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:23:1: stale bloop error: '=' expected.
+  val awuser
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:24:1: stale bloop error: '=' expected but '}' found.
+}
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:18:1: stale bloop error: '=' expected.
+  val awlock
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:19:1: stale bloop error: '=' expected.
+  val awcache = Wire(UInt(3.W))
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:21:1: stale bloop error: '=' expected.
+  val awqos
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:22:1: stale bloop error: '=' expected.
+  val awregion
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:23:1: stale bloop error: '=' expected.
+  val awuser
+^[0m
+2022.08.07 11:36:43 INFO  file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala:24:1: stale bloop error: '=' expected but '}' found.
+}
+^[0m
+2022.08.07 11:36:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:36:46 INFO  time: compiled axi-chisel in 0.17s[0m
+Aug 07, 2022 11:37:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:127)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:245)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at com.google.gson.Gson.toJson(Gson.java:714)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+2022.08.07 11:37:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:37:39 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 11:39:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:39:11 INFO  time: compiled axi-chisel in 0.22s[0m
+2022.08.07 11:39:49 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:39:49 INFO  time: compiled axi-chisel in 0.16s[0m
+2022.08.07 11:40:29 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:40:29 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 11:42:09 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:42:09 INFO  time: compiled axi-chisel in 0.14s[0m
+2022.08.07 11:44:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:44:16 INFO  time: compiled axi-chisel in 0.5s[0m
+2022.08.07 11:44:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:44:33 INFO  time: compiled axi-chisel in 0.39s[0m
+2022.08.07 11:44:45 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:44:45 INFO  time: compiled axi-chisel in 0.49s[0m
+2022.08.07 11:45:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:45:12 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 11:45:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:45:20 INFO  time: compiled axi-chisel in 2.81s[0m
+2022.08.07 11:45:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:46:01 INFO  time: compiled axi-chisel in 1.97s[0m
+2022.08.07 11:46:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:46:14 INFO  time: compiled axi-chisel in 2.83s[0m
+2022.08.07 11:47:42 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:47:44 INFO  time: compiled axi-chisel in 1.88s[0m
+2022.08.07 11:48:41 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:48:44 INFO  time: compiled axi-chisel in 2.34s[0m
+2022.08.07 11:49:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:49:11 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala[0m
+2022.08.07 11:49:12 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala[0m
+2022.08.07 11:49:12 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala[0m
+2022.08.07 11:49:12 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala[0m
+2022.08.07 11:49:12 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala[0m
+2022.08.07 11:49:13 INFO  time: compiled axi-chisel in 2.17s[0m
+Aug 07, 2022 11:49:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:77)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:127)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:245)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:735)
+	at com.google.gson.Gson.toJson(Gson.java:714)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Aug 07, 2022 11:49:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+심각: Internal error: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class AxiWriteDataChannel
+java.util.concurrent.CompletionException: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class AxiWriteDataChannel
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving class AxiWriteDataChannel
+
+2022.08.07 11:49:41 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:49:41 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 11:49:55 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 11:49:55 INFO  time: compiled axi-chisel in 0.15s[0m
+2022.08.07 12:00:46 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:00:46 INFO  time: compiled axi-chisel in 0.74s[0m
+2022.08.07 12:02:10 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:02:10 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 12:04:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:04:59 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 12:05:39 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:05:39 INFO  time: compiled axi-chisel in 0.21s[0m
+2022.08.07 12:08:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:08:24 INFO  time: compiled axi-chisel in 0.39s[0m
+2022.08.07 12:08:34 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:08:34 INFO  time: compiled axi-chisel in 0.23s[0m
+2022.08.07 12:09:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:09:44 INFO  time: compiled axi-chisel in 0.47s[0m
+2022.08.07 12:09:53 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:09:53 INFO  time: compiled axi-chisel in 0.27s[0m
+2022.08.07 12:10:14 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:10:14 INFO  time: compiled axi-chisel in 0.29s[0m
+2022.08.07 12:11:03 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:11:05 INFO  time: compiled axi-chisel in 2.13s[0m
+2022.08.07 12:11:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:12:00 INFO  time: compiled axi-chisel in 2.33s[0m
+2022.08.07 12:12:24 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 12:12:24 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 12:12:27 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 12:12:41 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 12:13:00 INFO  compiling axi-chisel (2 scala sources)[0m
+2022.08.07 12:13:02 INFO  time: compiled axi-chisel in 2.49s[0m
+2022.08.07 12:13:10 ERROR text document: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:71)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:52)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:51)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.currentDocument(SyntheticsDecorationProvider.scala:278)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.syntheticDecorations(SyntheticsDecorationProvider.scala:165)
+	at scala.meta.internal.decorations.SyntheticsDecorationProvider.$anonfun$publishSynthetics$1(SyntheticsDecorationProvider.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[0m
+2022.08.07 12:15:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:15:12 INFO  time: compiled axi-chisel in 0.49s[0m
+2022.08.07 12:15:22 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:15:22 INFO  time: compiled axi-chisel in 0.9s[0m
+2022.08.07 12:15:43 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:15:44 INFO  time: compiled axi-chisel in 1.12s[0m
+2022.08.07 12:15:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:15:46 INFO  time: compiled axi-chisel in 0.73s[0m
+2022.08.07 12:16:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:16:08 INFO  time: compiled axi-chisel in 0.74s[0m
+Aug 07, 2022 12:16:51 PM scala.meta.internal.pc.CompletionProvider expected$1
+경고: String index out of range: -1
+2022.08.07 12:17:08 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:17:10 INFO  time: compiled axi-chisel in 2.07s[0m
+Aug 07, 2022 12:17:21 PM scala.meta.internal.metals.Docstrings indexSymbol
+심각: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:521)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:90)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:74)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:39)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:38)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:16)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:172)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:171)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:256)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:255)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:254)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1596)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1594)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+Aug 07, 2022 12:17:21 PM scala.meta.internal.metals.Docstrings indexSymbol
+심각: file:///Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+java.nio.file.NoSuchFileException: /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:521)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:90)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:74)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:39)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:38)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.$anonfun$resolve$1(CompletionItemResolver.scala:17)
+	at scala.Option.orElse(Option.scala:447)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:17)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:172)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:171)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:256)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:255)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:254)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1596)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1594)
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2022.08.07 12:17:28 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:17:28 INFO  time: compiled axi-chisel in 0.2s[0m
+2022.08.07 12:17:31 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:32 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:33 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:33 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:35 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:36 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:37 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:37 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:40 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:41 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:41 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:41 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:43 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:44 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:46 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:47 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:51 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:51 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:51 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:54 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:54 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:54 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:55 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:55 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:56 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:57 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:57 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:17:58 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:00 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:01 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:03 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:18:04 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:05 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:05 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:05 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:05 WARN  Could not load snapshot text for /Users/parkdongho/Documents/dev/axi-chisel/src/main/scala/axi/axi4.scala[0m
+2022.08.07 12:18:05 INFO  time: compiled axi-chisel in 2.39s[0m
+Aug 07, 2022 12:18:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+경고: Unmatched cancel notification for request id 2517
+2022.08.07 12:18:59 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:19:00 INFO  time: compiled axi-chisel in 1.21s[0m
+2022.08.07 12:19:17 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:19:17 INFO  time: compiled axi-chisel in 0.24s[0m
+2022.08.07 12:20:11 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:20:13 INFO  time: compiled axi-chisel in 1.23s[0m
+2022.08.07 12:20:16 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:20:17 INFO  time: compiled axi-chisel in 1.23s[0m
+2022.08.07 12:20:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:20:59 INFO  time: compiled axi-chisel in 1.75s[0m
+2022.08.07 12:21:12 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:21:13 INFO  time: compiled axi-chisel in 1.21s[0m
+2022.08.07 12:21:24 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:21:25 INFO  time: compiled axi-chisel in 1.42s[0m
+2022.08.07 12:21:57 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:21:57 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 12:22:00 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:22:00 INFO  time: compiled axi-chisel in 0.26s[0m
+2022.08.07 12:22:33 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:22:36 INFO  time: compiled axi-chisel in 2.78s[0m
+2022.08.07 12:22:56 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:22:56 INFO  time: compiled axi-chisel in 0.18s[0m
+2022.08.07 12:22:58 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:22:59 INFO  time: compiled axi-chisel in 1.2s[0m
+2022.08.07 12:23:05 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:23:06 INFO  time: compiled axi-chisel in 1.08s[0m
+2022.08.07 12:28:44 INFO  compiling axi-chisel (1 scala source)[0m
+2022.08.07 12:28:47 INFO  time: compiled axi-chisel in 3.2s[0m

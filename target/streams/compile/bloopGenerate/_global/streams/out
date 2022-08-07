@@ -1,0 +1,4 @@
+[debug] [axi-chisel] Classpath dependencies List()
+[debug] [axi-chisel] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'axi-chisel' to '/Users/parkdongho/Documents/dev/axi-chisel/.bloop/axi-chisel.json'
+[success] Generated .bloop/axi-chisel.json
