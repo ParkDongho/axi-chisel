@@ -828,3 +828,5 @@ Aug 07, 2022 12:18:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 2022.08.07 12:23:06 INFO  time: compiled axi-chisel in 1.08s[0m
 2022.08.07 12:28:44 INFO  compiling axi-chisel (1 scala source)[0m
 2022.08.07 12:28:47 INFO  time: compiled axi-chisel in 3.2s[0m
+2022.08.07 14:11:36 INFO  Shut down connection with build server.[0m
+2022.08.07 14:11:36 INFO  Shut down connection with build server.[0m
